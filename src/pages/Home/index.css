@@ -1,0 +1,8 @@
+.App-main {
+  min-height: 75vh;
+  padding: 25px;
+}
+
+.App-main .image-gallery {
+  max-width: 90vh;
+}
